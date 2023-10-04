@@ -1,0 +1,22 @@
+.english {
+    font-family: Cambria;
+}
+a {
+    text-decoration: none;
+}
+
+i.fa-free-code-camp{
+    font-size: 35px;
+}
+i.fa-trash-o{
+    color: red;
+    /* font-size: 50px; */
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: white !important;
+    color: white !important;
+}
